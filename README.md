@@ -13,9 +13,9 @@ This program shows how some lines (with random heights) are sorting
 4.Insert sort ;
 
 At the end of every sorting method, under all the lines, or the numbers are shown sorted. At the end of the input there is shown the time of every sorting method.
-![](/images/img1.png)
+![](https://github.com/LucasMare/visual-sort-array-cpp/blob/master/images/img1.png?raw=true)
 (*sample pic with the look of the lines*)
-![](mages/img2.png)
+![](https://github.com/LucasMare/visual-sort-array-cpp/blob/master/images/img2.png?raw=true)
 (*sample pic with the times at the end of the input*)
 
 **Dependencies**
