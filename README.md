@@ -21,7 +21,7 @@ At the end of every sorting method, under all the lines, or the numbers are show
 
 (*sample pic with the look of the lines*)
 
-![](images/img0.png)
+![](images/img2.png)
 
 (*sample pic with the times at the end of the input*)
 
