@@ -33,7 +33,7 @@ At the end of every sorting method, under all the lines, or the numbers are show
 
 (*sample picture with the quick sort*)
 
-![](https://github.com/LucasMare/visual-sort-array-cpp/blob/master//images/timpi.png)
+![](https://github.com/LucasMare/visual-sort-array-cpp/blob/master//images/times.png)
 
 (*sample picture with the times at the end of the input*)
 
